@@ -1,6 +1,6 @@
 # Simos game
 
-Демо: https://hmfall.github.io/vue-simos-game/
+Демо: https://hmfall.github.io/vue-simon-game/
 
 Правила игры: https://en.wikipedia.org/wiki/Simon_(game)
 
